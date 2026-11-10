@@ -1,0 +1,64 @@
+# Semantic judgements for results/semantic/indicvoices.hi.sample.jsonl
+# Judge: Claude (Anthropic), applying scoring/judge_prompt.md. Format: utt:span=class
+# Classes: S spelling, M format, F filler, G grammar | C content, N number, E entity, X negation
+# (S/M/F/G are not meaning-changing; C/N/E/X are.) "Unsure -> meaning-changing" applied.
+0:0=S
+1:0=F 1:1=F
+2:0=S 2:1=G
+3:0=F
+5:0=C 5:1=G 5:2=M 5:3=M 5:4=G
+7:0=F 7:1=S 7:2=N 7:3=C
+9:0=F 9:1=F 9:2=S
+10:0=S
+15:0=G 15:1=M 15:2=M 15:3=G 15:4=S 15:5=S 15:6=S 15:7=S 15:8=S
+16:0=C
+17:0=S
+20:0=S
+21:0=S 21:1=C 21:2=C
+23:0=F 23:1=S
+24:0=C 24:1=M
+26:0=M 26:1=M 26:2=S
+29:0=C
+31:0=S 31:1=C 31:2=F 31:3=S
+32:0=C
+33:0=F
+34:0=S
+36:0=C 36:1=F
+37:0=C 37:1=S 37:2=S
+39:0=S
+40:0=M
+41:0=S 41:1=G 41:2=G 41:3=G 41:4=G 41:5=G
+43:0=S 43:1=S
+44:0=M 44:1=M 44:2=S 44:3=G
+47:0=C
+49:0=S 49:1=S 49:2=C 49:3=G 49:4=S 49:5=S 49:6=S 49:7=C
+50:0=S
+54:0=C
+56:0=F
+58:0=G 58:1=S 58:2=S 58:3=S 58:4=S
+60:0=C 60:1=C 60:2=S 60:3=S
+62:0=G 62:1=G
+63:0=S
+67:0=M 67:1=M
+68:0=G
+76:0=C 76:1=S
+78:0=S
+80:0=S 80:1=M 80:2=M 80:3=S 80:4=S
+81:0=G 81:1=S
+83:0=S
+86:0=C
+89:0=G
+90:0=F
+91:0=S
+92:0=C 92:1=C
+93:0=N 93:1=S
+95:0=F
+96:0=G 96:1=G 96:2=G 96:3=G
+97:0=G 97:1=G 97:2=G 97:3=C 97:4=G
+98:0=G 98:1=C 98:2=C 98:3=C 98:4=F
+99:0=C
+# --- re-judged on the fixed build (2026-10-28) ---
+22:0=C
+30:0=F
+48:0=F 48:1=G 48:2=C 48:3=C 48:4=C 48:5=C 48:6=C 48:7=G
+69:0=S

@@ -1,0 +1,20 @@
+{
+ "sample": "results/semantic/indicvoices.hi",
+ "utterances": 100,
+ "ref_words": 1457,
+ "wer_in_sample": 11.74,
+ "semantic_wer": 3.77,
+ "semantic_ci95": [
+  1.7,
+  6.58
+ ],
+ "share_of_errors_meaning_changing": 32.2,
+ "errors_by_class_words": {
+  "content": 53,
+  "spelling": 50,
+  "grammar": 34,
+  "filler": 17,
+  "format": 15,
+  "number": 2
+ }
+}

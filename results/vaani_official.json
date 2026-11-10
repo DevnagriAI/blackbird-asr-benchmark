@@ -1,0 +1,14 @@
+{
+ "dataset": "vaani-benchmark",
+ "lang": "hi",
+ "clips": 5050,
+ "missing_predictions": 0,
+ "method": "official ARTPARK-IISc toolkit: transliterate_predictions + clean_text + approach3_wer",
+ "hindi_wer": 12.42,
+ "hindi_wer_ci95": [
+  12.07,
+  12.73
+ ],
+ "hindi_wer_without_transliteration": 12.42,
+ "predictions": "predictions/vaani-benchmark/hi.native.given.jsonl"
+}

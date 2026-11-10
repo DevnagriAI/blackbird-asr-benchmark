@@ -1,0 +1,20 @@
+{
+ "sample": "results/semantic/svarah.en",
+ "utterances": 100,
+ "ref_words": 923,
+ "wer_in_sample": 8.34,
+ "semantic_wer": 3.25,
+ "semantic_ci95": [
+  1.54,
+  5.29
+ ],
+ "share_of_errors_meaning_changing": 39.0,
+ "errors_by_class_words": {
+  "content": 21,
+  "format": 19,
+  "grammar": 12,
+  "entity": 9,
+  "filler": 9,
+  "spelling": 7
+ }
+}

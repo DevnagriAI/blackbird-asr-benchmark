@@ -1,0 +1,45 @@
+# Semantic judgements for results/semantic/svarah.en.sample.jsonl (mixed mode run)
+# Judge: Claude (Anthropic), applying scoring/judge_prompt.md. Format: utt:span=class
+# Classes: S spelling, M format, F filler, G grammar | C content, N number, E entity, X negation
+2:0=G
+5:0=G
+8:0=S
+10:0=M 10:1=M
+16:0=G 16:1=S
+19:0=M 19:1=M
+21:0=E
+23:0=M
+24:0=C
+25:0=M 25:1=M
+26:0=C
+29:0=E 29:1=E
+39:0=M 39:1=F 39:2=S 39:3=M 39:4=M
+44:0=C
+46:0=C
+49:0=F 49:1=G
+52:0=G
+53:0=C 53:1=C
+54:0=S
+56:0=G 56:1=C
+58:0=G
+60:0=M
+63:0=M
+64:0=S
+66:0=S
+68:0=G 68:1=S
+71:0=G 71:1=C 71:2=C
+72:0=E
+76:0=C
+77:0=C
+79:0=C 79:1=G
+81:0=M
+86:0=F 86:1=F
+87:0=F
+88:0=C
+91:0=G
+92:0=M
+95:0=C
+96:0=M
+97:0=M
+# --- re-judged on the fixed build (2026-10-28) ---
+74:0=E

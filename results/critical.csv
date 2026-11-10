@@ -1,0 +1,11 @@
+dataset,lang,mode,number_tokens,number_error_rate,negations,negation_drop_rate,negation_add_rate
+hiacc-adult,hi,mixed,104,88.46,24,0.0,8.33
+hiacc-child,hi,mixed,85,97.65,15,0.0,0.0
+indicvoices,hi,native,2392,9.07,1276,4.15,4.08
+lahaja,hi,native,4505,3.97,958,1.15,0.73
+mucs2021-cs,hi,mixed,571,56.92,107,10.28,12.15
+svarah,en,mixed,1763,28.59,425,6.12,2.82
+vaani-benchmark,hi,native,3619,3.95,144,10.42,23.61
+vistaar-commonvoice,hi,native,183,5.46,223,0.9,1.35
+vistaar-fleurs,hi,native,233,37.77,81,0.0,0.0
+vistaar-kathbath,hi,native,358,18.44,168,0.6,0.6

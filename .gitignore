@@ -1,0 +1,9 @@
+# Rebuilt locally from the original sources; never committed.
+downloads/
+datasets/
+# Semantic samples contain reference text; regenerate with scoring/semantic_sample.py.
+results/semantic/*.sample.jsonl
+.venv/
+__pycache__/
+*.pyc
+.env
